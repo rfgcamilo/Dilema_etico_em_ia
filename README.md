@@ -5,10 +5,6 @@ Este repositório contém a entrega da **Atividade 3** da disciplina **Design Pr
 ## 📌 Contexto  
 O trabalho discute os dilemas éticos do uso do **reconhecimento facial**, uma tecnologia que, embora promissora em segurança e autenticação, apresenta sérios desafios em termos de **viés algorítmico, transparência, impacto social e governança**.  
 
-## 📄 Estrutura da Entrega  
-- **Artefato principal (LinkedIn):** Postagem resumindo o dilema, a análise e o posicionamento final.  
-- **Documento de suporte (este repositório):** Relatório em PDF com análise detalhada, seguindo o framework ético da disciplina.  
-
 ## 🧭 Principais Pontos da Análise  
 - **Viés e Justiça:** erros desproporcionais em grupos minoritários (mulheres e pessoas negras).  
 - **Transparência:** muitos modelos funcionam como caixas-pretas, sem explicabilidade.  
